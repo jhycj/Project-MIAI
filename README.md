@@ -56,6 +56,7 @@
 | Category | Title | Repository | Affiliation |
 |-----|-----|-----|-----|
 | Understanding | Facial expression recognition | [Link](https://github.com/keti-iiprc/miai_facial_expression_recognition) | KETI |
+| Understanding | Micro Gesture Recognition | [Link](https://github.com/jhycj/micro_gesture_recognition.git) | KETI |
 | Inference | Multi-modal Information Integration Understanding Model v1.0 | [Link](https://github.com/AIRC-KETI/VL-KE-T5) | KETI |
 | Inference | Information Recognition_verbal | [Link](https://github.com/MMC-K/Empathetic-Dialog-verbal) | KETI |
 | Inference | Empathetic Dialog_verbal | [Link](https://github.com/MMC-K/Information-Recognition-verbal) | KETI |
